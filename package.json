@@ -1,0 +1,15 @@
+{
+  "name": "the-art-of-distributed-systems",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "blume dev",
+    "build": "blume build",
+    "check": "blume check",
+    "doctor": "blume doctor",
+    "validate": "blume validate"
+  },
+  "dependencies": {
+    "blume": "^1.5.3"
+  }
+}
